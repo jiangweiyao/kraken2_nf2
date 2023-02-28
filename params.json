@@ -1,0 +1,5 @@
+{"input_fastqs":"s3://singulargenomicsdata/SingPublic/Microbiome_NIST19/Illumina_Reference/*_{subset1M_R1,subset1M_R2}.fastq.gz",
+	"kraken_db":"/home/ubuntu/kraken2",
+	"out":"/home/ubuntu/kraken2_output",
+	"bracken_threshold":200}
+
